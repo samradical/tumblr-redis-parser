@@ -1,0 +1,18 @@
+{
+  "name": "@samelie/tumblr-redis-parser",
+  "version": "0.2.0",
+  "main": "index.js",
+  "author": {
+    "name": "Sam Elie",
+    "email": "samradelie@gmail.com",
+    "url": "https://github.com/samelie"
+  },
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.16.6"
+  },
+  "engines": {
+    "node": "~5.1.0"
+  },
+  "devDependencies": {}
+}
